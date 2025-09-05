@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BookstoreSpringbootApplication<BOOKSTORE-SPRINGBOOT>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.klef.practice.BookstoreSpringbootApplication",
+            "projectName": "BOOKSTORE-SPRINGBOOT",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
